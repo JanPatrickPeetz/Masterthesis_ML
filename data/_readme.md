@@ -1,0 +1,1 @@
+in data all handled and touched data are located
